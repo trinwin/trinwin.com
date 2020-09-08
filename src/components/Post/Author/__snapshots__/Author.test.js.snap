@@ -17,7 +17,7 @@ exports[`Author renders correctly 1`] = `
       <strong>
         Test name
       </strong>
-       on Twitter
+       on Instagram
     </a>
   </p>
 </div>
