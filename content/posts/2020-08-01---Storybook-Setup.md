@@ -10,7 +10,7 @@ tags:
   - "Tutorial"
   - "Web Development"
 description: "In this article, I will guide you step by step to set up Storybook with Next, Typescript, SCSS, and Jest."
-socialImage: "/media/image-1.jpg"
+socialImage: "/media/github.png"
 ---
 
 In this article, I will guide you step by step to set up Storybook with Next, Typescript, SCSS, and Jest.

@@ -10,7 +10,7 @@ tags:
   - "Gatsby"
   - "Typography"
 description: "German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible."
-socialImage: "/media/gutenberg.jpg"
+socialImage: "/media/github.png"
 ---
 
 German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible.
