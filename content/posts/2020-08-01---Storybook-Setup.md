@@ -512,4 +512,4 @@ Thank you for reading 🙏🏻 and let me know in the comment if you run into an
 
 You can also clone the source code here to get started on your development right away: [https://github.com/trinwin/storybook-next-ts-template](https://github.com/trinwin/storybook-next-ts-template)
 
-> Connect with me on [Medium](https://medium.com/@trinwin), [LinkedIn](https://www.linkedin.com/in/trinwin), [Github](https://github.com/trinwin), and [Twitter](https://twitter.com/_trinwin) 🤓.
+> Connect with me on [Instagram](https://www.instagram.com/trinwin.dev/), [Medium](https://medium.com/@trinwin), [DEV](https://dev.to/trinwin), [LinkedIn](https://www.linkedin.com/in/trinwin), [Github](https://github.com/trinwin), and [Twitter](https://twitter.com/_trinwin) 🤓.

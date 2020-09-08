@@ -13,7 +13,7 @@ template: "page"
 #### 📈 Achievements
 
 - Receive [scholarship](https://buildyourfuture.withgoogle.com/scholarships/) from **Google** to attend [Grace Hopper Conference 2020](https://ghc.anitab.org/) - the **world’s largest gathering** of women technologists 👩🏻‍💼
-- [Medium blog](https://medium.com/swlh/2020-complete-setup-for-storybook-nextjs-typescript-scss-and-jest-1c9ce41e6481?source=friends_link&sk=0ea6d7518f60e2921849876e696b1693) got featured on [The Startup](https://medium.com/swlh) - the **largest publication on Medium** 💫
+- [Medium blog](https://medium.com/swlh/2020-complete-setup-for-storybook-nextjs-typescript-scss-and-jest-1c9ce41e6481?source=friends_link&sk=0ea6d7518f60e2921849876e696b1693) got featured on [The Startup](https://medium.com/swlh) - Medium's **largest publication** 💫
 - `70+` followers on **Github**, `120+` followers on **DEV.to** 💥
 
 #### 🌟 Leadership & Mentorship
