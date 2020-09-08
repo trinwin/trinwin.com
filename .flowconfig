@@ -13,5 +13,5 @@ server.max_workers=1
 nonstrict-import
 unclear-type
 untyped-type-import
-unsafe-getters-setters
+unsafe-getters-setters 
 sketchy-null

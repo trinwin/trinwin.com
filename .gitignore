@@ -1,8 +1,7 @@
 node_modules/
 .cache/
-public/
 npm-debug.log
 .eslintcache
 .gatsby-context.js
 .idea
-gatsby-starter-lumen.iml
+gatsby-starter-lumen.iml 
