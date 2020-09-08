@@ -5,9 +5,9 @@ template: "page"
 
 #### 👩🏻‍💻 Techinal Experiences
 
-- I'm a [web](https://github.com/trinwin) developer, designer and [content creator](https://www.instagram.com/trinwin.dev/) 🎨.
+- I'm a [web developer, designer](https://github.com/trinwin) and [content creator](https://www.instagram.com/trinwin.dev/) 🎨.
 - I study [Computer Science](https://www.linkedin.com/posts/trinwin_sjsu-computerscience-softwareengineer-activity-6705222006473940992-WNoi) at **San Jose State University** 📚.
-- I'm a [Software Engineering Intern](https://www.linkedin.com/in/trinwin) at **Tesla**, **Roku**, **Vidbase** 👩🏻‍💻
+- I'm a [Software Engineering Intern](https://www.linkedin.com/in/trinwin) at [Tesla Inc.](https://www.tesla.com/), [Roku Inc.](https://www.roku.com/), [Vidbase Inc.](https://vidbase.co/) 👩🏻‍💻
 - I'm pursuing **full stack web development**. Here is my [resume](https://drive.google.com/file/d/1ra6QOlodtxE_6SgVvbVDdphwhUJfcYWG/view?usp=sharing) 📑
 
 #### 📈 Achievements

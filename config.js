@@ -4,7 +4,7 @@ module.exports = {
   url: "https://lumen.netlify.com",
   pathPrefix: "/",
   title: "Trinity Nguyen",
-  subtitle: "Welcome to Trinity's Home 👋🏻",
+  subtitle: "Welcome to Trinity's Home 👋🏻 ",
   copyright: "© All rights reserved.",
   disqusShortname: "",
   postsPerPage: 4,
@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: "Trinity Nguyen",
     photo: "/photo.jpg",
-    bio: "Welcome to Trinity's Home 👋🏻",
+    bio: "Welcome to Trinity's Home 👋🏻 ",
     contacts: {
       email: "thn.trinity@gmail.com",
       facebook: "trinnwin",
